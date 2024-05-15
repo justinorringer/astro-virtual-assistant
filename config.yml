@@ -50,3 +50,4 @@ policies:
      epochs: 120
      learning_rate: 0.02
      constrain_similarities: true
+   - name: pipeline.product_description_policy.ProductDescriptionPolicy
